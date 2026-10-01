@@ -1,4 +1,4 @@
-# Mi proyecto de ejemplo
+# Mi proyecto de ejemplo de prácticas
 ## Capítulo 1
 ### Capítulo 1.1
 ### Título nivel 4
